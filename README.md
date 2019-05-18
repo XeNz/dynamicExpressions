@@ -3,6 +3,10 @@
 ## What is this repository
 This repo contains simple examples on how to dynamically build predicates which in turn get translated to SQL queries by EF Core.
 
+Two ways of building predicated are showcased:
+1. Custom method as found on StackOverflow, posted by Amy B : https://stackoverflow.com/a/4430018
+2. Usage of LINQKit which has a PredicateBuilder
+
 
 ## How to use this repository
 
