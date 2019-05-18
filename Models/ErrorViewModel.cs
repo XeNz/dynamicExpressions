@@ -1,5 +1,3 @@
-using System;
-
 namespace ExpressFuncStuff.Models
 {
     public class ErrorViewModel

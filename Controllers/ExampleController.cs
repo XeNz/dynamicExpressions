@@ -13,11 +13,11 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ExpressFuncStuff.Controllers
 {
-    public class HomeController : Controller
+    public class ExampleController : Controller
     {
         private readonly EntityContext _entityContext;
 
-        public HomeController(EntityContext entityContext)
+        public ExampleController(EntityContext entityContext)
         {
             _entityContext = entityContext;
         }
